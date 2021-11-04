@@ -1,0 +1,2 @@
+eg1
+-DCATKIN_DEVEL_PREFIX=/home/robotics/Thesis_Test/devel -DCMAKE_INSTALL_PREFIX=/home/robotics/Thesis_Test/install -G Unix Makefiles

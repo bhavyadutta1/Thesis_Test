@@ -1,0 +1,8 @@
+prefix=/home/robotics/Thesis_Test/install
+
+Name: eg1
+Description: Description of eg1
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: 
